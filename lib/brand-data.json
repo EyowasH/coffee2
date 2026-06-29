@@ -1,0 +1,87 @@
+{
+  "brand": {
+    "name": "Fresh Beans Coffee",
+    "fullName": "Fresh Beans Coffee Trading PLC",
+    "motto": "Sip Ethiopian Fresh Coffee",
+    "description": "Premium Ethiopian Coffee Exporter sourcing from Jimma, Yirgacheffe, Sidamo, and Guji.",
+    "heritage": "Deeply rooted in the rich Ethiopian coffee culture, with a legacy spanning generations. Our story is a testament to the passion and dedication of our family in nurturing the finest coffee beans in the region."
+  },
+  "mission": "At Fresh Ethiopian Coffee Beans, our story begins with our deep-rooted Ethiopian coffee heritage. We are a local family business dedicated to sourcing the finest coffee beans from the rich lands of Ethiopia. Our passion for quality drives us to provide a unique coffee experience, and our commitment to sustainability ensures that our beans are not only exceptional but also ethically sourced.",
+  "regions": [
+    {
+      "id": "yirgacheffe",
+      "name": "Yirgacheffe",
+      "region": "Yirgacheffe Region, Ethiopia",
+      "quality": "High Quality",
+      "process": ["Sustainably Sourced", "Hand-Picked"],
+      "flavor": ["Unique Floral", "Bright and Flavorful"],
+      "season": "Traditional Pass",
+      "description": "Our Yirgacheffe coffee beans are carefully selected to ensure the highest quality and unique flavors, bringing an exquisite experience to global partners.",
+      "accentColor": "#7A9E8733",
+      "tagline": "The Flavorful Specialty"
+    },
+    {
+      "id": "guji",
+      "name": "Guji",
+      "region": "Guji Region, Ethiopia",
+      "quality": "Organic Beans",
+      "process": ["Ethically Sourced", "Fair Trade"],
+      "flavor": ["Rich and Diverse", "Organic Depth"],
+      "season": "Sustainably Grown",
+      "description": "Sourced from the beautiful highlands of Guji, these beans tell a story of hardworking farmers and our absolute promise to use fair trade practices.",
+      "accentColor": "#8B6F4E33",
+      "tagline": "The Rich Harmony"
+    },
+    {
+      "id": "sidama",
+      "name": "Sidamo",
+      "region": "Sidamo Region, Ethiopia",
+      "quality": "Environmentally Friendly",
+      "process": ["Organic Care", "Sustainably Sourced"],
+      "flavor": ["Scented Sweetness", "Fine Traditional Cup"],
+      "season": "Carefully Nurtured",
+      "description": "Representing absolute dedication to quality and ethical practices, our Sidamo region beans ensure that our global reach respects traditional values.",
+      "accentColor": "#C4A55A33",
+      "tagline": "The Exquisite Balance"
+    },
+    {
+      "id": "jimma",
+      "name": "Jimma",
+      "region": "Jimma Region, Ethiopia",
+      "quality": "Ethiopian Heritage",
+      "process": ["Traditional Ceremony", "Hand-Picked"],
+      "flavor": ["Deep and Smooth", "Authentic Specialty"],
+      "season": "Generational Legacy",
+      "description": "Jimma represents the deep-rooted Ethiopian coffee culture. Respecting age-old traditions of coffee ceremony and family dedication, each lot is an exceptional offering.",
+      "accentColor": "#5C7A4E33",
+      "tagline": "The Classic Essence"
+    }
+  ],
+  "services": [
+    {
+      "title": "High Quality Beans",
+      "description": "At Fresh Ethiopian Coffee Beans, we take pride in offering high quality, organic, and flavorful coffee beans. Our commitment to quality ensures that our coffee beans are of the highest standard, ethically sourced, and environmentally friendly."
+    },
+    {
+      "title": "Organic Coffee Beans",
+      "description": "At Fresh Ethiopian Coffee Beans, we are committed to offering organic coffee beans that are sustainably sourced and environmentally friendly. Our dedication to quality and ethical practices sets us apart in the industry."
+    },
+    {
+      "title": "Fair Trade Practices",
+      "description": "Each hand-picked coffee bean tells a story of our tradition of coffee ceremony, beautiful landscapes, hardworking farmers, and our promise to use fair trade and sustainable practices across our global reach."
+    }
+  ],
+  "contact": {
+    "address": {
+      "building": "Etsehiwot engidawork Bldg.",
+      "floor": "4th Floor Office #407",
+      "city": "Addis Ababa",
+      "country": "Ethiopia"
+    },
+    "phones": [
+      "+251-924115178",
+      "+251-911657738"
+    ],
+    "email": "coffeefreshbeans@gmail.com"
+  }
+}

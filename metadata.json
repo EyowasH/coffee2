@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Beans Coffee Trading",
+  "description": "Direct-trade Ethiopian specialty green coffee exporter. Sourcing Yirgacheffe, Guji, Sidamo, and Jimma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
